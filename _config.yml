@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://vikingmotorsports.github.io/
+url:                 http://vikingmotorsports.github.io/poole/
 paginate:            1
-baseurl:             "http://vikingmotorsports.github.io/"
+baseurl:             "http://vikingmotorsports.github.io/poole/"
 
 # Assets
 #
